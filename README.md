@@ -9,7 +9,7 @@ This project investigates stylistic changes to writing in psychology papers befo
 - Post-LLM papers (n = 30)
 - Declared-LLM papers (n = 10)
 
-A subset of papers is included for reference. The full corpus is described in the essay submitted via Cortex.
+All papers have been included for reference.
 
 ## Methods
 
@@ -29,5 +29,5 @@ Figures and statistical tables are available in the `/outputs` folder.
 
 ## Note
 
-The accompanying essay for this project is submitted separately.  
+The accompanying essay for this project is submitted separately via Cortex.  
 This repository contains the data, code and outputs supporting the analysis.
