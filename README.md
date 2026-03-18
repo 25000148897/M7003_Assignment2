@@ -5,11 +5,11 @@ This project investigates stylistic changes to writing in psychology papers befo
 
 ## Corpus
 
-- Pre-LLM papers (n = 30)
-- Post-LLM papers (n = 30)
-- Declared-LLM papers (n = 10)
+- Pre-LLM papers (n = 30) - 10 submitted here
+- Post-LLM papers (n = 30) - 10 submitted here
+- Declared-LLM papers (n = 10) - 5 submitted here
 
-All papers have been included for reference.
+There were restrictions on the numbers of files that could be uploaded to GitHub.
 
 ## Methods
 
