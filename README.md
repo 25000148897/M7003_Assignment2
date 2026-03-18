@@ -1,7 +1,7 @@
 # M7003_Assignment2
 The right word: cognition and mediation in the case of LLMs and the writing style of psychology papers
 
-This project investigates stylistic changes in psychology papers writing style before and after the widespread adoption of large language models (LLMs).
+This project investigates stylistic changes in psychology papers' writing style before and after the widespread adoption of large language models (LLMs).
 
 ## Corpus
 
