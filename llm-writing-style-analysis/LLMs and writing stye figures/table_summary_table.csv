@@ -1,0 +1,4 @@
+,Grammar errors per 1000 words,Mean surprisal,Lexical diversity (MTLD),Burstiness,Citation density
+Pre-LLM,6.93,3.36,69.53,15.5,6.44
+Declared-LLM,8.2,3.3,109.5,13.77,3.05
+Post-LLM,5.53,3.2,98.4,14.55,5.77

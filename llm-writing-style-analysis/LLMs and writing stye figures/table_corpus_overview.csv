@@ -1,0 +1,4 @@
+,papers,mean_year,mean_words,median_words,llm_mentions
+Pre-LLM,29,2019.9,5691.1,5165.0,0
+Declared-LLM,8,2024.9,4834.5,4102.5,8
+Post-LLM,29,2024.8,5296.2,4929.0,3
